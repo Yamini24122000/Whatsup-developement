@@ -5,3 +5,4 @@ Author: Yamini
 2.Chat screen code
 3.last seen code
 4.Attachments (image,video,Audio) code
+5.Hiding last seen
