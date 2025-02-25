@@ -1,6 +1,8 @@
 This is whatsapp code :
 Author: Yamini
 
+just an demo practice
+
 1. profile page code
 2.Chat screen code
 3.last seen code
